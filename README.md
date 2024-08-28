@@ -4,6 +4,11 @@ This repository contains the preprocessed data and the description of the comput
 
 ## RNA-Seq data
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 Low-stretch podocytes experiments:
 
 |name|condition|
