@@ -1,6 +1,6 @@
-# Alternative-splicing-in-mechanically-stretched-podocytes-as-a-model-of-glomerular-hypertension
+# Alternative splicing in mechanically stretched podocytes as a model of glomerular hypertension
 
-This repository contains the preprocessed data and the description of the computational pipeline used in the study.
+This repository contains the preprocessed RNA-Seq data and the description of the computational pipeline for RNA-Seq data analysis used in the study.
 
 ## RNA-Seq data
 
