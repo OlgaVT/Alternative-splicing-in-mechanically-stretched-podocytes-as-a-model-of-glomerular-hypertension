@@ -11,7 +11,7 @@ This repository contains the preprocessed data and the description of the comput
 
 Low-stretch podocytes experiments:
 
-|name|condition|
+| name | condition |
 | B05_L1_S8 | stretched |
 | C05_L1_S13 | stretched |
 | A05_L1_S3 |  unstretched |
