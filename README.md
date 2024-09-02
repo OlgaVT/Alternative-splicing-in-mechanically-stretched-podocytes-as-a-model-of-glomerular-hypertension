@@ -39,7 +39,7 @@ Gene read counts were obtained by the **featureCounts** tool included in the **S
 
 ## Gene expression analysis
 
-Read counts were further normalized and used for differential gene expression by **DESeq2 version 1.38.3**. The script is *./gene_analysis/DESeq2.R*. The output files from the DESeq2 analysis are in *./gene_analysis/DESeq2*.
+Read counts were further normalized and used for differential gene expression by **DESeq2 version 1.38.3**. The script is *./gene_analysis/DESeq2.R*.
 
 ## AS analysis
 For isoform switch analysis, we prepared transcript counts using **salmon version 1.9.0** with the transcript annotation based on Ensembl version 104. The script is *./as_analysis/salmon.sh*.
